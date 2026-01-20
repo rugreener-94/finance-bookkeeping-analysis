@@ -1,0 +1,19 @@
+Date,Description,Category,Type,Amount
+2024-01-02,Product Sales,Sales,Income,1200
+2024-01-03,Office Rent,Rent,Expense,500
+2024-01-05,Internet Bill,Utilities,Expense,80
+2024-01-07,Product Sales,Sales,Income,900
+2024-01-10,Marketing Ads,Marketing,Expense,150
+2024-01-12,Supplier Payment,COGS,Expense,300
+2024-02-01,Product Sales,Sales,Income,1500
+2024-02-03,Office Rent,Rent,Expense,500
+2024-02-06,Internet Bill,Utilities,Expense,80
+2024-02-10,Product Sales,Sales,Income,1100
+2024-02-14,Marketing Ads,Marketing,Expense,200
+2024-02-18,Supplier Payment,COGS,Expense,350
+2024-03-02,Product Sales,Sales,Income,1800
+2024-03-04,Office Rent,Rent,Expense,500
+2024-03-06,Internet Bill,Utilities,Expense,80
+2024-03-09,Product Sales,Sales,Income,1300
+2024-03-12,Marketing Ads,Marketing,Expense,180
+2024-03-15,Supplier Payment,COGS,Expense,400
